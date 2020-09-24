@@ -2,7 +2,7 @@
 
 '스쿼드매니아' 는 iOS 용 어플리케이션입니다. Apple App Store 에서 다운로드 하실 수 있습니다. 
 
-![squad.png]
+![squad.png](https://likeurator.github.io/SquadMania/)
 <br>
 <br>
 <br>
