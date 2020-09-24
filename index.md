@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 스쿼드매니아 for 피파온라인4
 
-You can use the [editor on GitHub](https://github.com/likeUrator/SquadMania/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+'스쿼드매니아' 는 iOS 용 어플리케이션입니다. Apple App Store 에서 다운로드 하실 수 있습니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
+ ![squad.png](https://likeurator.github.io/SquadMania/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+ ![downlodApp.png](https://github.com/likeUrator/SquadMania/blob/gh-pages/downlodApp.png)
 
-```markdown
-Syntax highlighted code block
+문의사항은 아래 내용 참조 바랍니다. 
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+홈페이지 주소 : https://likeurator.github.io/SquadMania/
 
-1. Numbered
-2. List
+이메일 : amazinghajin@gmail.com
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/likeUrator/SquadMania/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
