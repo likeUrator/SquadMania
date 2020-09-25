@@ -7,7 +7,7 @@ Apple App Store 에서 다운로드 하실 수 있습니다.
 <br>
 <br>
 <br>
-<a href= "https://likeurator.github.io/SquadMania/"><img src="squad.jpg" width=20% /></a>
+<a href= "https://likeurator.github.io/SquadMania/"><img src="screen.png" /></a>
 <br>
 <br>
 <br>
