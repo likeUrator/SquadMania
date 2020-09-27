@@ -8,7 +8,7 @@
 <br>
 
 
- <스쿼드매니아>('https://squadmania.tistory.com/' 이하 'SquadMania')은(는) 개인정보를 수집하지 않습니다.
+ <스쿼드매니아>('https://likeurator.github.io/SquadMania/' 이하 'SquadMania')은(는) 개인정보를 수집하지 않습니다.
 <br>
 <br>
  
@@ -16,7 +16,7 @@
 2. 개인정보의 처리 및 보유 기간
 <br>
 
- <스쿼드매니아>('https://squadmania.tistory.com/' 이하 'SquadMania')은(는) 개인정보를 수집하지 않습니다.
+ <스쿼드매니아>('https://likeurator.github.io/SquadMania/' 이하 'SquadMania')은(는) 개인정보를 수집하지 않습니다.
 <br>
 <br>
 
@@ -25,7 +25,7 @@
 3. 정보주체와 법정대리인의 권리·의무 및 그 행사방법 이용자는 개인정보주체로써 다음과 같은 권리를 행사할 수 있습니다.
 <br>
 
-① 정보주체는 스쿼드매니아(‘https://squadmania.tistory.com/’이하 ‘SquadMania) 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
+① 정보주체는 스쿼드매니아(‘https://likeurator.github.io/SquadMania/’이하 ‘SquadMania) 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
 <br>
 
 1) 개인정보 열람요구
@@ -43,7 +43,7 @@
 4. 처리하는 개인정보의 항목 작성
 <br>
 
-① <스쿼드매니아>('https://squadmania.tistory.com/' 이하 'SquadMania')은(는) 개인정보를 수집하지 않습니다.
+① <스쿼드매니아>('https://likeurator.github.io/SquadMania/' 이하 'SquadMania')은(는) 개인정보를 수집하지 않습니다.
 
 <br>
 <br>
@@ -74,7 +74,7 @@
 
 7. 개인정보 보호책임자 작성
 <br>
-① 스쿼드매니아(‘https://squadmania.tistory.com/’이하 ‘SquadMania) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+① 스쿼드매니아(‘https://likeurator.github.io/SquadMania/’이하 ‘SquadMania) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
 <br>
 <br>
 
@@ -84,7 +84,8 @@
 <br>
 연락처 : amazinghajin@gmail.com
 <br>
-② 정보주체께서는 스쿼드매니아(‘https://squadmania.tistory.com/’이하 ‘SquadMania) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 스쿼드매니아(‘https://squadmania.tistory.com/’이하 ‘SquadMania) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+<br>
+② 정보주체께서는 스쿼드매니아(‘https://likeurator.github.io/SquadMania/’이하 ‘SquadMania) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 스쿼드매니아(‘https://likeurator.github.io/SquadMania/’이하 ‘SquadMania) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 <br>
 <br>
 
