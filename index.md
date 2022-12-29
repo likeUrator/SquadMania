@@ -19,7 +19,7 @@ Apple App Store / Google PlayStore에서 다운로드 하실 수 있습니다.
 <br>
 <br>
 <br>
-<a href= "https://play.google.com/store/apps/details?id=com.fleaplay.squad.flutter"><img width="500" height="160" src="androidDownloadApp.png" /></a>
+<a href= "https://play.google.com/store/apps/details?id=com.fleaplay.squad.flutter"><img width="450" height="160" src="androidDownloadApp.png" /></a>
 <br>
 <br>
 문의사항은 아래 내용 참조 바랍니다. 
